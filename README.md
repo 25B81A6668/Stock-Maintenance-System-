@@ -1,2 +1,5 @@
 # Stock-Maintenance-System-
-A Stock Maintenance System is a software application that automates tracking inventory levels, sales, purchases, and supplier data. It helps businesses prevent stockouts, reduce manual errors, and maintain real-time records of goods.
+This project is created for academic demonstration purpose only Software Configuration Management using GitHub 
+Student Name:K.Anil Kumar
+Roll No:25B81A6668
+Class:CSM-B
